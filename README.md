@@ -1,6 +1,7 @@
 # Sales-Analysis---SQL---PowerBI
 Atliq Hardware facing declining sales, they need real-time sales data insights of all regions to make better decisions.
 The purpose is to discover sales insights to sales team for decision support and end result will be a dashboard helping in data-driven decision making.
+Feel Free to connect me over LinkedIn for such projects and insights : https://www.linkedin.com/in/umairfarooq077/
 
 We got MySQL database from the company and ran some of the SQL queries to do our preliminary analysis. Then we performed ETL in the PowerBI for data visualization purpse. We created dashboard which included all the important KPIS namely, Revenue, Sales Treand, Top Customer by regions and Quantities sold.
 
